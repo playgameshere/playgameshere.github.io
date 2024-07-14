@@ -1,0 +1,80 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 1. RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 2. RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8?pxt_rtp
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 3. RTP áfrica
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8?pxt_rtp
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 4. RTP1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 5. RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 6. TVcinec
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 7. SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 8. TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvRXDTV/tviafrica.jpg", 9. TVI AFRICA
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 10. TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 11. Gospel TV Brazil
+https://59f1cbe63db89.streamlock.net:1443/gospeltv/gospeltv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 12. VERA TV itália
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 13. Solidária TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 14. Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 15. RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 16. Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg", 17. TV GALICIA
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 18. Kuriakos cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 19. Tv aricati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 20. All sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 21. Kuriakos tv
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkBCwH4/arag.png", 22. ARAGON TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYq1MS/extram.png", 23. CANAL EXTRAMADURA
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 24. RTP 3
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="CANAIS", 25. TV santa cecília
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+
+
+
